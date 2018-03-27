@@ -1,0 +1,216 @@
+2018-03-27 17:50:43 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 17:50:43 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 17:50:43 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 17:50:44 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 17:50:44 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@3d553056]
+2018-03-27 17:50:44 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-07?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 17:50:44 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 17:50:44 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-07?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 17:50:44 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@7fedaae]
+2018-03-27 17:53:10 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 17:53:10 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 17:53:10 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 17:53:11 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 17:53:11 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@71d4922f]
+2018-03-27 17:53:11 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 17:53:11 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 17:53:11 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 17:53:11 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@1337e37d]
+2018-03-27 17:59:28 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 17:59:29 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 17:59:29 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 17:59:30 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 17:59:30 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@6640a296]
+2018-03-27 17:59:30 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 17:59:30 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 17:59:30 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 17:59:30 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@3f195651]
+2018-03-27 17:59:54 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 17:59:55 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 17:59:55 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 17:59:56 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 17:59:56 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@17b0d581]
+2018-03-27 17:59:56 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 17:59:56 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 17:59:56 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 17:59:56 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@72fde264]
+2018-03-27 18:00:11 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 18:00:12 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:00:12 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:00:12 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:00:12 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@3728bcbb]
+2018-03-27 18:00:12 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-01?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:00:12 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:00:13 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-01?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:00:13 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@54e18bd1]
+2018-03-27 18:04:14 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 18:04:15 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:04:15 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:04:15 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:04:15 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@722909eb]
+2018-03-27 18:04:15 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:04:15 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:04:16 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:04:16 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@348aa3c4]
+2018-03-27 18:04:25 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 18:04:26 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:04:26 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:04:26 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:04:26 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@6e999e53]
+2018-03-27 18:04:26 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:04:26 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:04:27 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:04:27 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@6b1fe374]
+2018-03-27 18:05:46 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 18:05:46 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:05:46 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:05:46 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:05:46 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@5364da97]
+2018-03-27 18:05:47 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-13?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:05:47 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:05:47 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-13?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:05:47 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@2ec7fdba]
+2018-03-27 18:05:47 DEBUG DataCoreImpl:142 - Resulted profit was created successfully!
+2018-03-27 18:05:47 DEBUG DataCoreImpl:142 - Resulted profit was created successfully!
+2018-03-27 18:09:23 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 18:09:23 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:09:23 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:09:23 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:09:23 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@bdd8483]
+2018-03-27 18:09:23 DEBUG UrlFactoryImpl:84 - The URL for buy rate is: http://data.fixer.io/api/2018-03-13?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 18:09:24 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-13?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:09:24 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:09:24 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-13?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:09:24 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@b976790]
+2018-03-27 18:09:24 DEBUG DataCoreImpl:142 - Resulted profit was calculated successfully!
+2018-03-27 18:09:24 DEBUG DataCoreImpl:142 - Resulted profit was calculated successfully!
+2018-03-27 18:11:44 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 18:11:44 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:11:44 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:11:45 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:11:45 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@5072b1f]
+2018-03-27 18:11:45 DEBUG UrlFactoryImpl:84 - The URL for buy rate is: http://data.fixer.io/api/2018-03-01?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 18:11:45 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-01?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 18:11:45 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 18:11:45 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-01?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 18:11:45 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@f347729]
+2018-03-27 18:11:45 DEBUG DataCoreImpl:142 - Resulted profit was calculated successfully!
+2018-03-27 18:11:45 DEBUG DataCoreImpl:142 - Resulted profit was calculated successfully!
+2018-03-27 22:36:55 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 22:36:56 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 22:36:56 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 22:36:56 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 22:36:56 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@3246f65b]
+2018-03-27 22:36:56 DEBUG UrlFactoryImpl:84 - The URL for buy rate is: http://data.fixer.io/api/2018-03-13?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 22:36:57 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-13?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 22:36:57 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 22:36:57 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-13?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 22:36:57 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@56ca8521]
+2018-03-27 22:36:57 DEBUG DataCoreImpl:142 - Resulted profit was calculated successfully!
+2018-03-27 22:36:57 DEBUG DataCoreImpl:142 - Resulted profit was calculated successfully!
+2018-03-27 22:38:53 DEBUG UrlFactoryImpl:74 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 22:38:53 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 22:38:53 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 22:38:53 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 22:38:54 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@47efd0b7]
+2018-03-27 22:38:54 DEBUG UrlFactoryImpl:84 - The URL for buy rate is: http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 22:38:54 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 22:38:54 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 22:38:54 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 22:38:54 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@758528c0]
+2018-03-27 23:22:53 DEBUG UrlFactoryImpl:72 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:22:54 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:22:54 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:22:54 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:22:54 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:22:54 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@73bea814]
+2018-03-27 23:22:54 DEBUG UrlFactoryImpl:82 - The URL for buy rate is: http://data.fixer.io/api/2018-03-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:22:54 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:22:54 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:22:54 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:22:55 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:22:55 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@744a0413]
+2018-03-27 23:53:15 DEBUG UrlFactoryImpl:72 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:53:15 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:53:15 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:53:15 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:53:16 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:53:16 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@1eb0c181]
+2018-03-27 23:53:16 DEBUG UrlFactoryImpl:82 - The URL for buy rate is: http://data.fixer.io/api/2018-03-20?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:53:16 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:53:16 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-20?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:53:16 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:53:16 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-20?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:53:16 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@6a29a5e9]
+2018-03-27 23:55:41 DEBUG UrlFactoryImpl:72 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:55:41 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:55:41 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:55:41 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:55:41 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:55:41 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@4e4a209c]
+2018-03-27 23:55:41 DEBUG UrlFactoryImpl:82 - The URL for buy rate is: http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:55:41 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:55:41 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:55:41 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:55:42 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-03-06?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:55:42 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@7b947108]
+2018-03-27 23:55:48 DEBUG UrlFactoryImpl:72 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:55:48 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:55:48 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:55:48 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:55:49 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:55:49 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@48f55ce1]
+2018-03-27 23:55:49 DEBUG UrlFactoryImpl:82 - The URL for buy rate is: http://data.fixer.io/api/2018-02-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:55:49 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:55:49 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-02-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:55:49 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:55:49 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-02-14?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:55:49 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@3781c022]
+2018-03-27 23:55:58 DEBUG UrlFactoryImpl:72 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:55:58 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:55:58 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:55:58 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:55:58 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:55:58 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@62e4bd25]
+2018-03-27 23:55:58 DEBUG UrlFactoryImpl:82 - The URL for buy rate is: http://data.fixer.io/api/2018-02-24?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:55:59 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:55:59 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-02-24?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:55:59 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:55:59 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-02-24?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:55:59 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@7fbecd6a]
+2018-03-27 23:56:11 DEBUG UrlFactoryImpl:72 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:56:11 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:56:11 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:56:11 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:56:12 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:56:12 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@236d0dd1]
+2018-03-27 23:56:12 DEBUG UrlFactoryImpl:82 - The URL for buy rate is: http://data.fixer.io/api/2018-02-26?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:56:12 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:56:12 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2018-02-26?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:56:12 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:56:12 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2018-02-26?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:56:12 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@21e0a32c]
+2018-03-27 23:56:29 DEBUG UrlFactoryImpl:72 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:56:29 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:56:29 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:56:29 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:56:30 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:56:30 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@2a058ac2]
+2018-03-27 23:56:30 DEBUG UrlFactoryImpl:82 - The URL for buy rate is: http://data.fixer.io/api/2017-12-12?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-27 23:56:30 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-27 23:56:30 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2017-12-12?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-27 23:56:30 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-27 23:56:30 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2017-12-12?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-27 23:56:30 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@7baf5245]
+2018-03-28 00:05:08 DEBUG UrlFactoryImpl:72 - The URL for current rates: http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-28 00:05:08 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-28 00:05:08 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-28 00:05:08 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-28 00:05:09 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/latest?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-28 00:05:09 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@725da3a]
+2018-03-28 00:05:09 DEBUG UrlFactoryImpl:82 - The URL for buy rate is: http://data.fixer.io/api/2015-12-17?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB
+2018-03-28 00:05:09 DEBUG GsonUtils:33 - fixer.io is available and connection exists
+2018-03-28 00:05:09 DEBUG RestTemplate:78 - Created GET request for "http://data.fixer.io/api/2015-12-17?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB"
+2018-03-28 00:05:09 DEBUG RestTemplate:520 - Setting request Accept header to [text/plain, */*]
+2018-03-28 00:05:09 DEBUG RestTemplate:465 - GET request for "http://data.fixer.io/api/2015-12-17?access_key=4f199d3f722b29e804a12924fd9156c9&base=EUR&symbols=RUB" resulted in 200 (OK)
+2018-03-28 00:05:09 DEBUG RestTemplate:71 - Reading [java.lang.String] as "application/json;Charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@5f0cb186]
